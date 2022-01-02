@@ -1,2 +1,2 @@
-# Microsoft_Windows_Control_Panel
+# Microsoft Windows Control Panel
 Zoznam príkazov a možnosti pre ovládací panel (control panel - control.exe) v Microsoft Windows
