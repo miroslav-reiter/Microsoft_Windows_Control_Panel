@@ -1,5 +1,13 @@
 # 🧰 Microsoft Windows Control Panel
-Zoznam príkazov a možnosti pre ovládací panel (control panel - control.exe) v Microsoft Windows
+Zoznam **139 príkazov** a možnosti pre **ovládací panel** (control panel - **control.exe**) v Microsoft Windows.
+
+V systéme Microsoft Windows 8/10/11 existuje niekoľko rôznych spôsobov, ako nájsť a zmeniť nastavenia: 
+1. **Aplikácia Nastavenia** (Settings app)
+2. **Ovládací panel** (Control panel)
+3. **Nastavenia aplikácie** (App settings)
+4. **Vyhľadávanie** (Search)
+
+Väčšinu nastavení, ktoré budete chcieť zmeniť, nájdete v aplikácii Nastavenia. Ovládací panel umožňuje prezerať a meniť nastavenia (ovládacie prvky) pre Windows prostredníctvom systémových apletov (najčastejšie majú **príponu cpl** - **control panel item** - položka ovládacieho panela).
 
 | N   | Položka ovládacieho panelu [EN]                  | Položka ovládacieho panelu [SK]                               | Príkazy                                                                                              |
 |-----|--------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
