@@ -1,5 +1,5 @@
 # 🧰 Microsoft Windows Control Panel
-Zoznam **139 príkazov** a možnosti pre **ovládací panel** (control panel - **control.exe**) v Microsoft Windows.
+Zoznam **112 až 139 príkazov** a možnosti pre **ovládací panel** (control panel - **control.exe**) v Microsoft Windows.
 
 V systéme Microsoft Windows 8/10/11 existuje niekoľko rôznych spôsobov, ako nájsť a zmeniť nastavenia: 
 1. **Aplikácia Nastavenia** (Settings app)
