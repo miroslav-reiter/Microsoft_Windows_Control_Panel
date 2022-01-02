@@ -150,3 +150,8 @@ Väčšinu nastavení, ktoré budete chcieť zmeniť, nájdete v aplikácii Nast
 | 137 | Windows Features                                 | Funkcie systému Windows                                       | rundll32.exe shell32.dll,Control_RunDLL appwiz.cpl,,2                                                |
 | 138 | Windows Mobility Center                          | Centrum mobility systému Windows                              | control /name Microsoft.MobilityCenter                                                               |
 | 139 | Work Folders                                     | Pracovné priečinky                                            | %windir%\System32\WorkFolders.exe                                                                    |
+
+## 📚 Dôležité zdroje
+1. [Liferwire Command Line Commands for Control Panel Applets](https://www.lifewire.com/command-line-commands-for-control-panel-applets-2626060)
+2. [Lizardsystems 112 Windows run commands](https://lizardsystems.com/articles/112-windows-run-commands/)
+3. [Microsoft Forum a odpovede](https://answers.microsoft.com/en-us/windows/forum/all)
